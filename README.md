@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi~ Hello! 👋
+
+ My Site: [h1code2](http://h1code.cn)
+
+ - 🥀 2019
+ - 📖 I have been learning Python/Android reverse analysis recently
+ - 💬 WeChat ID: wx_h1code2
 
 <!--
-**h1code2/h1code2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZCKun/ZCKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=h1code2&show_icons=true&count_private=true)](https://github.com/h1code2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h1code2&layout=compact)](https://github.com/h1code2)
