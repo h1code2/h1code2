@@ -1,4 +1,4 @@
-### Hi~ Hello! 👋
+### Hello ~ 👋
 
  My Site: [h1code2](http://h1code.cn)
 
