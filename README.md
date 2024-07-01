@@ -1,8 +1,6 @@
 ### Hello ~ 👋
 
- My Site: [h1code2](http://h1code.cn)
-
- - 🥀 2021
+ - 🥀 2024
  - 📖 I have been learning Python/Android reverse analysis recently
  - 💬 WeChat ID: wx_h1code2
 
