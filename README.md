@@ -2,7 +2,7 @@
 
  - 🥀 2024
  - 📖 I have been learning Python/Android reverse analysis recently
- - 💬 WeChat ID: wx_h1code2
+ - 📮 h1coed2@gmail.com
 
 <!--
 **ZCKun/ZCKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
